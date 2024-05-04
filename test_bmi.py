@@ -1,4 +1,4 @@
-import lab2.bmi as bmi
+import LAB2.bmi as bmi
 
 print("Test_bmi.py")
 
