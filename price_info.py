@@ -11,8 +11,6 @@ def total_cost_shopping():
             total_cost += price_list[fruit] * quantity
     print("Total cost =", total_cost)
 
-    print("total cost = ", total_cost)
-
 
 def cost_of_fruits(fruit, quantity):
     for key in price_list.keys():
